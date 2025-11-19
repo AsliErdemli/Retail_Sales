@@ -29,4 +29,4 @@ Power BI and Excel
 - Our best salesperson made one big sale to Spain. 
 - The sales have fallen 1.5 Million Dollars between 2004 and 2005 : mainly due to less medium size and small size sales. 
 
-You can find a pdf and png image of the dashboard in this repository. 
+You can find a pdf and jpeg image of the dashboard in this repository. 
